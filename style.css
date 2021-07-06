@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    font-family: font-family: 'Poppins', sans-serif;;
+}
+section{
+    display: flex;
+    margin-bottom: 25px;
+}
+.single-2{
+width: 50%;
+padding: 5px;
+font-size: 35px;
+}
+.single-2 img{
+    width: 100%;
+}
+.single-1{
+    text-align: center;
+    background-color: rgb(221, 63, 6);
+    color: white;
+}
+.orange{
+    color: orange;
+}
+a{
+    text-decoration: none;
+    background-image: linear-gradient(orange, rgb(167, 4, 4));
+    color:white;
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-weight: 700px;
+}
+.top{
+    text-align: center;
+}
+.top-food-2{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+.single-2 img{
+    width: 80%;
+}
+.single-4{
+    width: 40%;
+    padding: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px grey;
+    border: 3px solid rgb(219, 200, 200);
+    border-radius: 25px;
+}
+.single-4 img{
+    width: 100%;
+}
+.single-5{
+    text-align: center;
+}
+.falxiable-container-2{
+    margin-left:180px;
+}
+.last{
+    text-align: center;
+    background-color: rgb(31, 27, 27);
+    color:white;
+}
